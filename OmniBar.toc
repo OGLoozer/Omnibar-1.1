@@ -1,0 +1,13 @@
+## Interface: 60000
+## Title: OmniBar
+## Notes: Tracks enemy cooldowns
+## Version: v1.1
+## Author: Jordon
+## DefaultState: Enabled
+## SavedVariablesPerCharacter: OmniBarDB
+## X-Curse-Packaged-Version: v1.1
+## X-Curse-Project-Name: OmniBar
+## X-Curse-Project-ID: omnibar
+## X-Curse-Repository-ID: wow/omnibar/mainline
+
+OmniBar.lua

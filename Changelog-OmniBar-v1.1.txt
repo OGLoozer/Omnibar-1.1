@@ -1,0 +1,12 @@
+tag v1.1
+342e77ef68b9a96a446731c405695e9a997246bf
+Jordon <jordon@localhost>
+2014-10-17 10:01:29 -0700
+
+Tagging as v1.1
+
+
+--------------------
+
+Jordon:
+	- lower MAX_OMNI_BARS
